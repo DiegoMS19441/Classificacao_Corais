@@ -17,7 +17,9 @@ Utilizamos o teachable Machine para criar um modelo de reconhecimento de corais 
 Utilizamos tres datasets de imagens provindos do Kaggle:
 
 https://www.kaggle.com/datasets/aneeshdighe/corals-classification
+
 https://www.kaggle.com/code/vencerlanz09/corals-image-classification-using-vgg19
+
 https://www.kaggle.com/datasets/lprdosmil/unsplash-random-images-collection
 
 Link da apresentação da solução:
