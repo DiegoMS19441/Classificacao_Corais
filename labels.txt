@@ -1,0 +1,3 @@
+0 Corais Brancos
+1 Corais Saudaveis
+2 Não é um coral
