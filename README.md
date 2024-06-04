@@ -22,7 +22,7 @@ https://www.kaggle.com/code/vencerlanz09/corals-image-classification-using-vgg19
 
 https://www.kaggle.com/datasets/lprdosmil/unsplash-random-images-collection
 
-Link da apresentação da solução:
+Link da apresentação da solução: https://youtu.be/I1KSBKk6utA
 
 Link da explicação do código:
 
